@@ -5,8 +5,6 @@ export default function ({ children }:{
 }) {
     return <div className="border-b text-center">
         20% off
-
         {children}
-
     </div>
 }

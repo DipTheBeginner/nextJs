@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function signup() {
   return (
     <div >
-      Hello
+      welcome to signup page
     </div>
   );
 }
